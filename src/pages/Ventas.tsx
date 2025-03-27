@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import Layout from '../components/Layout';
-import SalesPanel from '../components/Salespanel';
+import SalesPanel from '../components/SalesPanel';
 import SalesCart from '../components/SalesCart';
 
 interface Product {
